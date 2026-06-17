@@ -22,3 +22,4 @@ Welcome to my repository for documenting labs, rooms, and challenges completed o
 
 ---
 *🔥 Continuous Learning Mode: ON. Updating logs daily as I progress through paths.*
+- [x] **[How The Web Works](./How_The_Web_Works_Walkthrough.md)** — Deep dive into HTTP requests/responses, DNS resolution, and web server architecture.
