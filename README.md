@@ -1,28 +1,3 @@
-# 🎯 TryHackMe Writeups & Walkthroughs
-
-Welcome to my repository for documenting labs, rooms, and challenges completed on **TryHackMe**. This space serves as my practical proof-of-work for foundational and advanced cybersecurity concepts.
-
----
-
-## 📁 Repository Structure
-
-* 📁 **[Defensive](./Defensive):** Documentation for Blue Teaming, digital forensics, and security monitoring.
-* 📁 **[Networking](./Networking):** Labs covering core networking protocols, architecture, and analysis.
-* 📁 **[TryHackMe](./TryHackMe):** Miscellaneous CTF walkthroughs and machine writeups (e.g., RootMe).
-
----
-
-## 🚀 Documented Walkthroughs & Notes
-
-### 🛡️ Cybersecurity Foundations
-- [x] **[Introduction to Cybersecurity](./Intro_to_Cybersecurity_Walkthrough.md)** — Core concepts of Red/Blue teaming, digital forensics, and basic web exploitation methodologies.
-
-### 🐧 Linux & Systems
-- [x] **[Linux Fundamentals Part 1](../Linux-for-Cybersecurity/README.md)** — Documented core commands, file systems, and automated discovery tools.
-- [x] [Windows Basics](Windows_Basics_Walkthrough.md) — Explored Windows interface, desktop navigation, and standard built-in security auditing using Windows Security.
----
-*🔥 Continuous Learning Mode: ON. Updating logs daily as I progress through paths.*
-- [x] **[How The Web Works](./How_The_Web_Works_Walkthrough.md)** — Deep dive into HTTP requests/responses, DNS resolution, and web server architecture.
 # 🛡️ TryHackMe Walkthroughs & Cyber Security Labs
 
 Welcome to my official repository documenting my hands-on experience, laboratory write-ups, and cybersecurity learning journey. This repository serves as a live **Proof of Work** for my technical skills, logical problem-solving, and practical methodology.
@@ -39,7 +14,7 @@ Welcome to my official repository documenting my hands-on experience, laboratory
 ## 📂 Completed Rooms & Key Learnings
 
 ### 1. Fundamental Security Models & Principles
-* **Room Link:** [Security Principles](https://tryhackme.com/room/securityprinciples)
+* **Room Link:** [Security Principles](https://tryhackme.com/room/securityprinciples
 * **Core Concepts Mastered:**
   * **CIA Triad:** Understood the core pillars of security—*Confidentiality, Integrity, and Availability*—and mapped real-world incident scenarios to each domain.
   * **DAD Triad:** Analyzed the adversarial counterparts—*Disclosure, Alteration, and Denial/Destruction*.
@@ -58,7 +33,17 @@ Welcome to my official repository documenting my hands-on experience, laboratory
   * **Secure by Design:** Embraced the philosophy that baking security into the initial design yields the highest Return on Investment (ROI).
   * **Risk & Policy Exceptions:** Analyzed how business continuity and organizational needs necessitate managed policy exceptions.
   * **Human Factor & Change Management:** Acknowledged humans as the weakest link and explored structured change management to keep security aligned with evolving infrastructures.
+### 4. Cloud Infrastructure Fundamentals
+* **Room Link:** [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals)
+* **Core Concepts Mastered:**
+  * **Service Models:** Evaluated deployment models across IaaS, PaaS, and SaaS architectures.
+  * **Shared Responsibility Model:** Understood the demarcation of security ownership between cloud providers and enterprise clients.
 
+### 5. Enterprise Host Security & Administration
+* **Room Link:** [Windows Basics](https://tryhackme.com/room/windowsbasics)
+* **Core Concepts Mastered:**
+  * **OS Auditing:** Extracted device specifications (`THM-WINBASICS`) and patch versions using system diagnostics.
+  * **Antivirus Auditing:** Conducted custom administrative scans utilizing the standardized **EICAR test string** (`eicar.com.txt`) to audit endpoint detection triggers.
 ---
 
 ## 🛠️ My Methodology (How I Approach Labs)
