@@ -5,8 +5,8 @@ Welcome to my official repository documenting my hands-on experience, laboratory
 ---
 
 ## 🚀 Rapid Progression Metrics
-* **Current Level:** 6 (Voyager) `[0x6]`
-* **Global Rank:** Top 20% on TryHackMe 
+* **Current Level:** 7 (Adept) `[0x7]`
+* **Global Rank:** 201344 Top 9% on TryHackMe 
 * **Learning Path:** Security Engineer / Introduction to Cybersecurity
 
 ---
@@ -44,6 +44,13 @@ Welcome to my official repository documenting my hands-on experience, laboratory
 * **Core Concepts Mastered:**
   * **OS Auditing:** Extracted device specifications (`THM-WINBASICS`) and patch versions using system diagnostics.
   * **Antivirus Auditing:** Conducted custom administrative scans utilizing the standardized **EICAR test string** (`eicar.com.txt`) to audit endpoint detection triggers.
+
+   * ### 6. Core Networking Concepts
+* **Room Link:** [Networking Concepts](https://tryhackme.com/room/networkingconcepts)
+* **Core Concepts Mastered:**
+    * **OSI & TCP/IP Models:** Deep understanding of data encapsulation across layers (Frames, Datagrams, Segments, and Packets).
+    * **Network Protocols:** Practical experience with TCP 3-way handshakes, UDP connections, and stateless/stateful communication.
+    * **Application Layer Auditing:** Utilized **Telnet** via command-line interface to interact with active web servers, analyze raw HTTP request/response headers, and audit remote server banners (`Apache/2.4.41`).
 ---
 
 ## 🛠️ My Methodology (How I Approach Labs)
